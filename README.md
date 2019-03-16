@@ -1,5 +1,6 @@
 # Vue JS & Firebase Authentication Scaffolding with VueJS v2.5+ Vuex v3.1 & Firebase v5.8
-git
+A Vue JS with Firebase integrated Login Authentication App with Vuex Store enabled.
+Everything under a hood..!
 
 ## Screen-Shots
 **The Home Page**<br>
