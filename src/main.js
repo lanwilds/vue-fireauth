@@ -25,12 +25,7 @@ const router = new Router({
 	mode:'history'
 });
 var config = {
-    // apiKey: "AIzaSyC25vpjQo2N0l4wuooYFROzHMwhcaZRwjg",
-    // authDomain: "nammabus-da278.firebaseapp.com",
-    // databaseURL: "https://nammabus-da278.firebaseio.com",
-    // projectId: "nammabus-da278",
-    // storageBucket: "nammabus-da278.appspot.com",
-    // messagingSenderId: "359919005860"
+	//put your firebase credentials
 };
 var firebaseApp = firebase.initializeApp(config);
 var db = firebaseApp.database();
